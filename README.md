@@ -1,5 +1,5 @@
 
-### <samp> <h1> Olá, mundo!</h1> </samp> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+### <samp> <h1> Olá, mundo! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1> </samp> 
 
 <samp>
 <a href="https://www.linkedin.com/in/claricemdl/">
