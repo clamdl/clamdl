@@ -1,16 +1,27 @@
-### Hi there 👋
 
-<!--
-**clamdl/clamdl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <samp> <h1> Olá, mundo!</h1> </samp> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-Here are some ideas to get you started:
+<samp>
+<a href="https://www.linkedin.com/in/claricemdl/">
+   <img align="left" alt="cmdl Linkdein" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
+  </a>
+  <a href="mailto:claricemdeveza@gmail.com">
+    <img align="left" alt="cmdl mail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
+  </a>
+  <a href="https://twitter.com/clamdl">
+    <img align="left" alt="cmdl Twitter" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" />
+  </a>
+  <a href="https://www.instagram.com/cla.mdl/">
+    <img align="left" alt="cmdl Instagram" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Instagram.svg" />
+  </a>
+<br />
+<img align="right" alt="GIF" width="300px" src="https://media.giphy.com/media/xUOxf9lJKcBDrE6qmk/giphy.gif" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Sou Clarice Lacerda,
+<p align="justify">
+Mãe, curiosa, formada em Pedagogia, especializada em Educação Infantil e apaixonada por tecnologias. 
+Com o início turbulento da maternidade, em meio a pandemia, decidi ingressar nesse universo da programação para poder contribuir um pouco mais com o mundo. Meu objetivo é fornecer ferramentas gratuitas, voltadas para educação, para toda população. Espero um dia ser boa o suficiente para isso! Conto com a contribuição de vocês! :) </p>
+<br/>
+<br/>
+Aprendendo: HTML, CSS, JavaScript.
+</samp>
