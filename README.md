@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/claricemdl/">
    <img align="left" alt="cmdl Linkdein" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
   </a>
-  <a href="mailto:claricemdeveza@gmail.com">
+  <a href="mailto:clamdl@outlook.com">
     <img align="left" alt="cmdl mail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
   </a>
   <a href="https://twitter.com/clamdl">
